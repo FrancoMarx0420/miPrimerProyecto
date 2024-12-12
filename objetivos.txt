@@ -1,0 +1,4 @@
+1- Desarrollar un mejor nivel en JavaScript para crear aplicaciones más eficientes y dinámicas.
+2- Aprender a maquetar responsive design en css y html de manera óptima y profesional.
+3- Adquirir un conocimiento sólido en el funcionamiento de frameworks modernos como (React, Angular, next).
+
