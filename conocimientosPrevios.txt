@@ -1,1 +1,2 @@
 1- Trabajado con Lenguajes de programacion a nivel educativo (Python, C++, C, C#)
+2- practicado diseño web a nivel basico (CSS,HTML,JS)
